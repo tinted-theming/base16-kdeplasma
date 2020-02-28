@@ -1,0 +1,12 @@
+default:
+    extension: .colors
+    output: schemes
+default-blue:
+    extension: .colors
+    output: schemes-blue
+default-purple:
+    extension: .colors
+    output: schemes-purple
+default-green:
+    extension: .colors
+    output: schemes-green
